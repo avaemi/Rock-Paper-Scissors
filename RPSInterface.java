@@ -2,8 +2,7 @@
   Name: Ava Emami
   Email: seemami@ucsd.edu
    
-  This file is for CSE 12 PA1 in Spring 2024,
-  and contains an interface definition of RPS of some basic functionalities.
+  This file contains an interface definition of RPS of some basic functionalities.
 */
 
 /**
